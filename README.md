@@ -18,7 +18,7 @@ To run the project locally, you'll need a web browser to open the `.html` files.
 ### Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/vintechs-community-website.git  
+  https://github.com/Vintechs24/VINTECHS-COMMUNITY-WEB.git  
 Navigate to the project folder:
 bash
 Copy code
